@@ -67,7 +67,7 @@ export const sharedMetadata: Metadata = {
   openGraph: siteMetadata.openGraph,
   twitter: siteMetadata.twitter,
   verification: {
-    google: 'your-google-site-verification',
+    google: 'qatnS53B3ng588clVYbVL1KPjlgPrDV4uMn9zBiI4Ro',
   },
   alternates: {
     canonical: `${baseUrl}/`,
