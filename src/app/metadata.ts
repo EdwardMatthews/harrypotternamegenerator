@@ -72,4 +72,7 @@ export const sharedMetadata: Metadata = {
   alternates: {
     canonical: `${baseUrl}/`,
   },
+  icons: {
+    icon: '/favicon.ico',
+  }
 }
