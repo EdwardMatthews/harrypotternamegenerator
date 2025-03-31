@@ -3,17 +3,18 @@ export default function Footer() {
     {
       title: "Name Generators",
       links: [
-        { name: 'Kingdom Name Generator', url: 'https://kingdomnamegenerator.pro' },
-        { name: 'Demon Name Generator', url: 'https://demonnamegenerator.pro' },
-        { name: 'Wu Tang Name Generator', url: 'https://wutangnamegenerator.pro' }
+        { name: 'Kingdom Name Generator', url: 'https://kingdomnamegenerator.pro/' },
+        { name: 'Demon Name Generator', url: 'https://demonnamegenerator.pro/' },
+        { name: 'Wu Tang Name Generator', url: 'https://wutangnamegenerator.pro/' }
       ]
     },
     {
       title: "Others",
       links: [
-        { name: 'Iframe Generator', url: 'https://www.iframegenerator.pro' },
-        { name: 'DDS to PNG', url: 'https://www.ddstopng.pro' },
-        { name: 'WebP to PDF', url: 'https://webptopdf.pro' }
+        { name: 'Iframe Generator', url: 'https://www.iframegenerator.pro/' },
+        { name: 'DDS to PNG', url: 'https://www.ddstopng.pro/' },
+        { name: 'WebP to PDF', url: 'https://webptopdf.pro/' },
+        { name: 'PDF to Markdown', url: 'https://pdftomarkdown.pro/' },
       ]
     }
   ]
