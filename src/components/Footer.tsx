@@ -14,7 +14,7 @@ export default function Footer() {
         { name: 'Iframe Generator', url: 'https://www.iframegenerator.pro/' },
         { name: 'DDS to PNG', url: 'https://www.ddstopng.pro/' },
         { name: 'WebP to PDF', url: 'https://webptopdf.pro/' },
-        { name: 'PDF to Markdown', url: 'https://www.google.com/url?sa=E&q=https%3A%2F%2Fpdftomarkdown.pro%2F' },
+        { name: 'Kimi K2', url: 'https://kimi-k2.ai/' },
       ]
     }
   ]
